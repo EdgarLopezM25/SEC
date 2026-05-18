@@ -1,0 +1,9 @@
+[My Computer]
+My Computer = "192.168.1.148"
+
+[NI-myRIO-1900-Controll]
+NI-myRIO-1900-Controll = "172.22.11.2"
+
+[WIND]
+WIND = "172.22.11.10"
+
