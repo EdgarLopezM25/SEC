@@ -21,7 +21,7 @@ SEC_LabVIEW
   In MyComputer we will find uRedPC.vi this is the interfaz user-machine
     In front panel we can modify number of PV, number of batteries in ESS and initial SoC, MG voltage, initial SoC of EV BB, %C used to charging process and manage faults in RPVS, MG and Start/Stop charge process
 
-To run the HIL platform is necesary have the two MyRIO 1900 connected, when uRedPC.vi starts an emergency window appear to request irradiance data in xlsx format after it other emergency window appear to request load data in xlsx format.
+To run the HIL platform is necesary have the two MyRIO 1900 connected, when uRedPC.vi starts an emergent window appear to request irradiance data in xlsx format after it other emergent window appear to request load data in xlsx format.
 At present irradiance data is solicite as 235 values in column A starting on row 1 of Excel, because emulation takes irradiance values every 360 seconds
 Load data is solicítate as 234 values in column C in column C of Excel
 uRedPC.vi is configured to repeat data of irradiance and load when emulation has used all introduced data.
